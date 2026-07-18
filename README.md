@@ -42,6 +42,7 @@ I am a Junior Data Scientist with a strong quantitative foundation in statistics
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**fraud-detection-streaming**](https://github.com/Valentino-source-dev/fraud-detection-streaming) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Real-Time MLOps pipeline with Redpanda, XGBoost, MLflow & Grafana |
 | [**cpp-stock-timeseries-engine**](https://github.com/Valentino-source-dev/cpp-stock-timeseries-engine) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | Multi-asset quantitative engine with Sharpe Ratio, liquidity filtering, Pearson correlation & risk-adjusted signals |
 | [**credit-card-fraud-detection**](https://github.com/Valentino-source-dev/credit-card-fraud-detection) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Binary classification on imbalanced data: Logistic Regression, Random Forest, LightGBM & SHAP explainability |
 | [**gdelt-media-attention-framing**](https://github.com/Valentino-source-dev/gdelt-media-attention-framing) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | Reproducible pipeline for analyzing global media attention and semantic framing using GDELT data |
