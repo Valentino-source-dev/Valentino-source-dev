@@ -38,6 +38,18 @@ I am a Junior Data Scientist with a strong quantitative foundation in statistics
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**cpp-stock-timeseries-engine**](https://github.com/Valentino-source-dev/cpp-stock-timeseries-engine) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | Multi-asset quantitative engine with Sharpe Ratio, liquidity filtering, Pearson correlation & risk-adjusted signals |
+| [**credit-card-fraud-detection**](https://github.com/Valentino-source-dev/credit-card-fraud-detection) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Binary classification on imbalanced data: Logistic Regression, Random Forest, LightGBM & SHAP explainability |
+| [**gdelt-media-attention-framing**](https://github.com/Valentino-source-dev/gdelt-media-attention-framing) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | Reproducible pipeline for analyzing global media attention and semantic framing using GDELT data |
+| [**sentiment-analysis-breaking-bad**](https://github.com/Valentino-source-dev/sentiment-analysis-breaking-bad) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | Lexicon-based sentiment & emotion analysis (AFINN, VADER, NRC) of Breaking Bad dialogues |
+| [**topic-modeling-reddit-discussions**](https://github.com/Valentino-source-dev/topic-modeling-reddit-discussions) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | LDA topic modeling on Reddit discussions with model comparison and qualitative interpretation |
+
+---
+
 ## 📈 Professional Journey
 
 ### 💼 Data Analyst Intern | Credem Banca (Apr 2026 – Present)
